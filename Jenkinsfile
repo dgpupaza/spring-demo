@@ -20,4 +20,7 @@ pipeline {
     }
 
   }
+  environment {
+    maven = '\'Maven 3.6.3\''
+  }
 }
